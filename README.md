@@ -1,6 +1,9 @@
 # 📉 Customer Churn Intelligence Platform
 
 An **industry-level Machine Learning web application** for predicting, explaining, and acting on customer churn risk — built with Scikit-learn and Streamlit.
+## Project Repository
+
+👉 [Click Here](https://churnproject-gyp46drb4lfnvngyz9zeuz.streamlit.app/)
 
 ---
 
